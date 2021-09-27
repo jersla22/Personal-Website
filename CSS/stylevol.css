@@ -1,0 +1,12 @@
+h3{
+    font-size: 35px;
+    text-transform:uppercase;
+}
+.possum{
+    color: yellow;
+}
+a{
+    font-size: 20px;
+    color: blue;
+    width: auto;
+}

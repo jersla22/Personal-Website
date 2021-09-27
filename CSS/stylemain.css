@@ -1,0 +1,43 @@
+html{
+    background-color: #124532;
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 10px;
+}
+body{
+    background-color: #901835;
+    width: 600px;
+    margin: 0 auto;
+}
+h1, h2{
+    font-size: 60px;
+    text-align: justify;
+    line-height: 1;
+}
+p, li{
+    display: block;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+.nice{
+    text-transform: unset;
+    font-weight: bold;
+    height: auto;
+    margin: 3;
+}
+li.new{
+    font-style: italic;
+    color: #719678;
+    text-decoration: line-through;
+    font-size: 30px;
+}
+.now{
+    color:blue;
+    font-size: 20px;
+}
+img{
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
